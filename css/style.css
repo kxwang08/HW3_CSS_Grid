@@ -229,7 +229,7 @@ nav{
 
 nav li{
   display:inline;
-  align-items:right;
+  /* align-items:right; */
 }
 
   /* Step 10: Write the selector/rule property to update the .container class */
